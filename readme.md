@@ -21,11 +21,11 @@ todo-list/
 ├── internal/
 │   ├── models/
 │   │   └── task.go # Definition of the Task struct
-│   ├── todo/
-│   │   ├── add.go # Logic for adding tasks
-│   │   ├── list.go # Logic for listing tasks
-│   │   ├── remove.go # Logic for removing tasks
-│   │   └── save.go # Logic for saving and loading tasks
+│   └── todo/
+│       ├── add.go # Logic for adding tasks
+│       ├── list.go # Logic for listing tasks
+│       ├── remove.go # Logic for removing tasks
+│       └── save.go # Logic for saving and loading tasks
 ├── tests/
 │   ├── add_test.go # Unit tests for adding tasks
 │   ├── list_test.go # Unit tests for listing tasks
