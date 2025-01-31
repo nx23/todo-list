@@ -11,6 +11,7 @@ This project is a command-line interface (CLI) application for managing a todo l
 
 ## Project Structure
 This project is structured as follows:
+```
 todo-list/
 ├── cmd/
 │   ├── root.go # Main entry point of the application
@@ -30,7 +31,7 @@ todo-list/
 │   ├── list_test.go # Unit tests for listing tasks
 │   └── remove_test.go # Unit tests for removing tasks
 └── readme.md # This file
-
+```
 
 ## Installation
 To install the necessary dependencies, run:
